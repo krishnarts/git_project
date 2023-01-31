@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    font-family: "Muli", sans-serif;
+}
+.banner{
+    background-image: url(../photos/banner-1.png);
+    background-position: left top;
+    padding-bottom: 250px;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.navbar{
+    padding: 30px;
+}
+.row{
+    width: 100%;
+    display: flex;
+}
+.col{
+    width: 50%;
+}
+.mr-auto{
+    margin: auto;
+}
+.active{
+    color: #ff4e56!important;
+}
+.menu ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+.menu ul li{
+    list-style: none;
+    padding-right: 30px;  
+}
+.menu ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-4{
+    width: 40%;
+}
+.col-6{
+    width: 60%;
+}
+.btn{
+    border: 1px #fff solid;
+    border-radius: 25px;
+    background-color: transparent;
+    color: #fff;
+    padding: 15px 35px;
+}
+.mr{
+    margin-right: 1 0px;
+}
+.banner-1{
+    padding-top: 100px;
+}
+.contain h1{
+    font-weight: 700;
+    margin: 0 0 25px;
+    color: #fff!important;
+    font-size: 58px;
+    line-height: 68px; 
+    font-family: inherit; 
+}
+.contain p{
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff!important;
+}
+.buttons{
+    margin-top: 40px;
+}
+.img-fild{
+    border-radius: 12   px;
+    width: 100%;
+}
+.about-cont{
+    color: #3b04db;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: inherit;
+}
+.sec-2 h2{
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
